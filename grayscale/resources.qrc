@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/Grayscale" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
